@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "Baltimore Ravens",
+    "Team": "BAL",
+    "Bye Week": "14",
+    "Rank": "1",
+    "Andy": "1",
+    "Jason": "3",
+    "Mike": "1",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "New York Jets",
+    "Team": "NYJ",
+    "Bye Week": "12",
+    "Rank": "2",
+    "Andy": "3",
+    "Jason": "1",
+    "Mike": "2",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "San Francisco 49ers",
+    "Team": "SF",
+    "Bye Week": "9",
+    "Rank": "3",
+    "Andy": "2",
+    "Jason": "2",
+    "Mike": "4",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Dallas Cowboys",
+    "Team": "DAL",
+    "Bye Week": "7",
+    "Rank": "4",
+    "Andy": "4",
+    "Jason": "4",
+    "Mike": "3",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Cleveland Browns",
+    "Team": "CLE",
+    "Bye Week": "10",
+    "Rank": "5",
+    "Andy": "5",
+    "Jason": "5",
+    "Mike": "5",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Kansas City Chiefs",
+    "Team": "KC",
+    "Bye Week": "6",
+    "Rank": "6",
+    "Andy": "6",
+    "Jason": "6",
+    "Mike": "6",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Pittsburgh Steelers",
+    "Team": "PIT",
+    "Bye Week": "9",
+    "Rank": "7",
+    "Andy": "7",
+    "Jason": "8",
+    "Mike": "7",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Miami Dolphins",
+    "Team": "MIA",
+    "Bye Week": "6",
+    "Rank": "8",
+    "Andy": "8",
+    "Jason": "7",
+    "Mike": "8",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Philadelphia Eagles",
+    "Team": "PHI",
+    "Bye Week": "5",
+    "Rank": "9",
+    "Andy": "9",
+    "Jason": "11",
+    "Mike": "10",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Indianapolis Colts",
+    "Team": "IND",
+    "Bye Week": "14",
+    "Rank": "10",
+    "Andy": "10",
+    "Jason": "14",
+    "Mike": "9",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Green Bay Packers",
+    "Team": "GB",
+    "Bye Week": "10",
+    "Rank": "11",
+    "Andy": "15",
+    "Jason": "9",
+    "Mike": "12",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Buffalo Bills",
+    "Team": "BUF",
+    "Bye Week": "12",
+    "Rank": "12",
+    "Andy": "11",
+    "Jason": "12",
+    "Mike": "13",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "New Orleans Saints",
+    "Team": "NO",
+    "Bye Week": "12",
+    "Rank": "13",
+    "Andy": "18",
+    "Jason": "10",
+    "Mike": "14",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "New England Patriots",
+    "Team": "NE",
+    "Bye Week": "14",
+    "Rank": "14",
+    "Andy": "14",
+    "Jason": "13",
+    "Mike": "15",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Houston Texans",
+    "Team": "HOU",
+    "Bye Week": "14",
+    "Rank": "15",
+    "Andy": "16",
+    "Jason": "16",
+    "Mike": "11",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Chicago Bears",
+    "Team": "CHI",
+    "Bye Week": "7",
+    "Rank": "16",
+    "Andy": "12",
+    "Jason": "15",
+    "Mike": "19",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Cincinnati Bengals",
+    "Team": "CIN",
+    "Bye Week": "12",
+    "Rank": "17",
+    "Andy": "13",
+    "Jason": "17",
+    "Mike": "20",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Minnesota Vikings",
+    "Team": "MIN",
+    "Bye Week": "6",
+    "Rank": "18",
+    "Andy": "17",
+    "Jason": "18",
+    "Mike": "17",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Detroit Lions",
+    "Team": "DET",
+    "Bye Week": "5",
+    "Rank": "19",
+    "Andy": "19",
+    "Jason": "19",
+    "Mike": "16",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Jacksonville Jaguars",
+    "Team": "JAX",
+    "Bye Week": "12",
+    "Rank": "20",
+    "Andy": "21",
+    "Jason": "21",
+    "Mike": "18",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Denver Broncos",
+    "Team": "DEN",
+    "Bye Week": "14",
+    "Rank": "21",
+    "Andy": "22",
+    "Jason": "23",
+    "Mike": "21",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Las Vegas Raiders",
+    "Team": "LV",
+    "Bye Week": "10",
+    "Rank": "22",
+    "Andy": "23",
+    "Jason": "20",
+    "Mike": "27",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "New York Giants",
+    "Team": "NYG",
+    "Bye Week": "11",
+    "Rank": "23",
+    "Andy": "20",
+    "Jason": "25",
+    "Mike": "26",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Carolina Panthers",
+    "Team": "CAR",
+    "Bye Week": "11",
+    "Rank": "24",
+    "Andy": "25",
+    "Jason": "28",
+    "Mike": "22",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Los Angeles Rams",
+    "Team": "LAR",
+    "Bye Week": "6",
+    "Rank": "25",
+    "Andy": "28",
+    "Jason": "22",
+    "Mike": "25",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Tampa Bay Buccaneers",
+    "Team": "TB",
+    "Bye Week": "11",
+    "Rank": "26",
+    "Andy": "24",
+    "Jason": "29",
+    "Mike": "23",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Seattle Seahawks",
+    "Team": "SEA",
+    "Bye Week": "10",
+    "Rank": "27",
+    "Andy": "26",
+    "Jason": "26",
+    "Mike": "24",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Los Angeles Chargers",
+    "Team": "LAC",
+    "Bye Week": "5",
+    "Rank": "28",
+    "Andy": "27",
+    "Jason": "24",
+    "Mike": "28",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Atlanta Falcons",
+    "Team": "ATL",
+    "Bye Week": "12",
+    "Rank": "29",
+    "Andy": "29",
+    "Jason": "27",
+    "Mike": "29",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Tennessee Titans",
+    "Team": "TEN",
+    "Bye Week": "5",
+    "Rank": "30",
+    "Andy": "30",
+    "Jason": "31",
+    "Mike": "30",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Arizona Cardinals",
+    "Team": "ARI",
+    "Bye Week": "11",
+    "Rank": "31",
+    "Andy": "31",
+    "Jason": "30",
+    "Mike": "31",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  },
+  {
+    "Name": "Washington Commanders",
+    "Team": "WAS",
+    "Bye Week": "14",
+    "Rank": "32",
+    "Andy": "32",
+    "Jason": "32",
+    "Mike": "32",
+    "Markers": "Mark Drafted                      Mark Keeper"
+  }
+]

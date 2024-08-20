@@ -1,0 +1,44 @@
+[
+  {
+    "value": "qb_rankings",
+    "lastUploadDate": "2024-07-28",
+    "link": "https://www.thefantasyfootballers.com/2024-ultimate-draft-kit/udk-position-rankings/?position=QB",
+    "label": "QB Rankings"
+  },
+  {
+    "value": "rb_rankings",
+    "lastUploadDate": "2024-07-28",
+    "link": "https://www.thefantasyfootballers.com/2024-ultimate-draft-kit/udk-position-rankings/?position=RB",
+    "label": "RB Rankings"
+  },
+  {
+    "value": "wr_rankings",
+    "lastUploadDate": "2024-07-28",
+    "link": "https://www.thefantasyfootballers.com/2024-ultimate-draft-kit/udk-position-rankings/?position=WR",
+    "label": "WR Rankings"
+  },
+  {
+    "value": "flex_rankings",
+    "lastUploadDate": "2024-07-28",
+    "link": "https://www.thefantasyfootballers.com/2024-ultimate-draft-kit/udk-position-rankings/?position=FLEX",
+    "label": "FLEX Rankings"
+  },
+  {
+    "value": "def_rankings",
+    "lastUploadDate": null,
+    "link": "https://www.thefantasyfootballers.com/2024-ultimate-draft-kit/udk-position-rankings/?position=D",
+    "label": "DEF Rankings"
+  },
+  {
+    "value": "k_rankings",
+    "lastUploadDate": null,
+    "link": "https://www.thefantasyfootballers.com/2024-ultimate-draft-kit/udk-position-rankings/?position=K",
+    "label": "K Rankings"
+  },
+  {
+    "value": "top_200_rankings",
+    "lastUploadDate": "2024-07-28",
+    "link": "https://www.thefantasyfootballers.com/2024-ultimate-draft-kit/udk-top-200-list/",
+    "label": "TOP-200 Rankings"
+  }
+]
